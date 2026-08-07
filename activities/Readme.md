@@ -8,6 +8,10 @@
     - Understand the mathematics of NN architectures through explicit forward-propagation code
     - Gain experience with JAX for gradient-descent optimization in NN training
 
+- `Lecture1-NN-keras.ipynb`: TensorFlow/Keras version of the first neural-network activity
+    - Download the particle dataset directly in Colab
+    - Build and tune a dense regression network
+
 - `Lecture2-CNN-torch.ipynb`: current convolutional neural-network activity using PyTorch
     - Build and train a small CNN on MNIST
     - Apply transfer learning to AT-TPC images with VGG16
