@@ -17,3 +17,8 @@
     - Based on the December 2024 versioning update from `hsf-india-deep-learning`
     - Loads only the simulated subset used in the activity
     - Repeats grayscale channels per batch rather than copying the full dataset
+
+- `Lecture3-VAE.ipynb`: current TensorFlow/Keras variational-autoencoder activity
+    - Train a genuine VAE on MNIST with reconstruction and KL-divergence losses
+    - Visualize and generate samples from a two-dimensional latent space
+    - Extend the architecture to AT-TPC images using a Colab-safe 10,000-event subset
